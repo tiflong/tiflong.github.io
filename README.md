@@ -1,5 +1,4 @@
-title: Welcome to Tiffany's Test homepage
-description: Feel free to bookmark this page
+
 
 ## Welcome to GitHub Pages
 
