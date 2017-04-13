@@ -1,3 +1,6 @@
+title: Welcome to Tiffany's Test homepage
+description: Feel free to bookmark this page
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tiflong/tiflong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
